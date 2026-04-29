@@ -16,12 +16,10 @@
         <div>
           <span class="text-rotate text-7xl">
             <span class="justify-items-center">
-              <span>วิน</span>
-              <span>มี</span>
-              <span>เมีย</span>
-              <span>น้อย</span>
-              <span>ที่</span>
-              <span>สาขา ฟิสิก</span>
+              <span>ตั้ง</span>
+              <span>ใจ</span>
+              <span>อ่าน</span>
+              <span>ไม</span>
             </span>
           </span>
         </div>
