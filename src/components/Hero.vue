@@ -16,9 +16,10 @@
         <div>
           <span class="text-rotate text-7xl">
             <span class="justify-items-center">
-              <span>ตั้ง</span>
-              <span>ใจ</span>
               <span>อ่าน</span>
+              <span>ตรง</span>
+              <span>นี้</span>
+              <span>ทำ</span>
               <span>ไม</span>
             </span>
           </span>
